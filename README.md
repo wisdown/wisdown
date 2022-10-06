@@ -24,7 +24,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=wisdown&show_icons=true&theme=dracula)
+![Gomez's github stats](https://github-readme-stats.vercel.app/api?username=wisdown&show_icons=true&theme=dracula)
 
 
 
